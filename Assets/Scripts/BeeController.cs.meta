@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ebf27c7f53a2e6b4aaf0624daf876481
+timeCreated: 1517741153
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Target: {instanceID: 0}
+  - break_particle: {fileID: 1019898302655068, guid: e7c970121c9e680448f981ce86143668,
+      type: 2}
+  - animator: {instanceID: 0}
+  - _GUIScript_: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
